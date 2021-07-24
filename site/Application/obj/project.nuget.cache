@@ -1,15 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xZOJMVX07rscHTcWYPbVAMqsrO1D7QOs4fkZlwKG5mxvMRDbbFoVF34LDrJ7XGC/qo5+qEkw/UcxH+PQftgFCg==",
+  "dgSpecHash": "Di+KUEnyWey9tMqmiJHGd/GJORR78DmuWzHtFNG8LKTSRh9ObGyrKczM8GaJowNRC53CZGfw2dca6JOY0X9rVg==",
   "success": true,
   "projectFilePath": "C:\\Users\\luis\\Documents\\Github\\netcore-angular-dating-app\\site\\Application\\Application.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\luis\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
-    "C:\\Users\\luis\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
-    "C:\\Users\\luis\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
-    "C:\\Users\\luis\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
-    "C:\\Users\\luis\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
-    "C:\\Users\\luis\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }
